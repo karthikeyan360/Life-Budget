@@ -1,0 +1,8 @@
+{
+  "name": "life-budget",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ae7d1e5a"
+}
